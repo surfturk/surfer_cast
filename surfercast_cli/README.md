@@ -1,8 +1,12 @@
 # SurfercastCli
 
+Welcome to the SurferCast Cli, California's premier beach park finder! With this program, you are able to search through all
+counties that feature beaches in California. You have several options with the program, you may list out all beaches in  California in one very large list or you can pick a county and list the beaches located in that county. When you are done with the program, type the word 'exit' to leave. Cheers and thank you for using the program! Go shred!!
+
+
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/surfercast_cli`. To experiment with that code, run `bin/console` for an interactive prompt.
 
-TODO: Delete this and the text above, and describe your gem
+
 
 ## Installation
 
